@@ -1,7 +1,7 @@
 # RepasoJavaScript
 Snippets de repaso para introducción al curso de ReactJS
 
-JavaScript es un lenguaje de programación creado por Netscape e incorporado por primera vez a su navegador por ahí de 1995 con el objetivo de agregar interactividad a los sitios web. Este rápidamente cobró importancia gracias a que es un lenguaje ligero y multiplataforma, ya que al ejecutarse en el navegador y ser un lenguaje interpretado es independiente del sistema operativo, algo que sabemos es por decirlo de un modo el motor que impulso en su momento la creación de Java. (preguntar si conocemos la diferencia entre lenguaje compilado e interpretado).
+JavaScript es un lenguaje de programación creado por Netscape e incorporado por primera vez a su navegador por ahí de 1995 con el objetivo de agregar interactividad a los sitios web. Este rápidamente cobró importancia gracias a que es un lenguaje ligero y multiplataforma, ya que al ejecutarse en el navegador y ser un lenguaje interpretado es independiente del sistema operativo, algo que sabemos es por decirlo de un modo el motor que impulso en su momento la creación de Java.
 
 Otra característica importante es que es un lenguaje no tipado, lo que significa que  no tenemos que especificar el tipo de variable que queremos utilizar, algo que nos da la versatilidad de poder reutilizar variables.
 
